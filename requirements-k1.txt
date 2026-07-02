@@ -1,0 +1,11 @@
+# Install these from the Bianbu apt repositories; do not use pip wheels on RISC-V.
+python3-numpy
+python3-opencv
+python3-pyside6.qtwidgets
+python3-pyside6.qtgui
+python3-pyside6.qtcore
+python3-matplotlib
+python3-pil
+python3-spacemit-ort
+espeak-ng
+v4l-utils
